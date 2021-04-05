@@ -1,0 +1,93 @@
+ul {
+    list-style: none;
+    /*убираем маркеры списка*/
+    margin: 0;
+    /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0;
+    /*убираем левый отступ, равный 40px*/
+}
+
+a {
+    text-decoration: none;
+    /*убираем подчеркивание текста ссылок*/
+}
+
+
+/* Home */
+
+position: absolute;
+left: 17.3%;
+right: 76.47%;
+top: 0.84%;
+bottom: 98.53%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+
+/* identical to box height, or 167% */
+
+
+/* Black */
+
+color: #070707;
+
+/* About me */
+
+position: absolute;
+left: 32.46%;
+right: 61.31%;
+top: 0.84%;
+bottom: 98.53%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+
+/* identical to box height, or 167% */
+
+color: #828282;
+
+/* Navigation */
+
+position: absolute;
+width: 945px;
+height: 50px;
+left: 250px;
+top: 40px;
+
+/* Skills */
+
+position: absolute;
+left: 47.47%;
+right: 46.3%;
+top: 0.84%;
+bottom: 98.53%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+
+/* identical to box height, or 167% */
+
+color: #828282;
+Width 75px Height 30px Top 40px Left 1120px Blend Pass through Contacts Ag Font Roboto Weight 700 Style normal Size 18px Line height 30px 828282
+/* Contacts */
+
+position: absolute;
+left: 77.51%;
+right: 17.3%;
+top: 0.84%;
+bottom: 98.53%;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+
+/* identical to box height, or 167% */
+
+color: #828282;

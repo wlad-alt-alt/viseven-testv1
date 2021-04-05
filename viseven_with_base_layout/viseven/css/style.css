@@ -1,0 +1,77 @@
+ul {
+    list-style: none;
+    /*убираем маркеры списка*/
+    margin: 0;
+    /*убираем верхнее и нижнее поле, равное 1em*/
+    padding-left: 0;
+    /*убираем левый отступ, равный 40px*/
+}
+
+a {
+    text-decoration: none;
+    /*убираем подчеркивание текста ссылок*/
+}
+
+
+html
+{
+	font-family: Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+}
+
+body {
+	margin:0;
+	padding:0;
+}
+
+.cont-inner {
+	width:945px;
+	margin:0 auto;
+	padding:20px 0;
+}
+
+.bg-gray {
+	background-color:#F4F4F4;
+}
+.menu {
+	padding:0 0 20px;
+	border-bottom:2px solid #C0C0C0;
+}
+.menu li {
+	display:inline-block;
+	width:20%;
+	margin:0 -2px;
+	text-align:center;
+	
+}
+.menu li a {
+	font-weight:bold;
+	color:#828282;
+}
+.menu li a.active,
+.menu li a:hover {
+	color:#000;
+}
+
+.h3 {
+	display:block;
+	text-align:center;
+	font-weight:bold;
+	font-size:30px;
+	padding:20px 0 40px;
+}
+.clear {
+	clear:both;
+}
+.card img {
+	float:left;
+	margin-right:30px;
+}
+.card .text {
+
+}
+
+.h450 {
+	height:450px;
+}
